@@ -1,0 +1,51 @@
+.btn-primary{
+  background-color: #264a67 !important;
+}
+.text-primary{
+    color: #264a67 !important;
+  }
+
+.bg-sidebar {
+    background-color: #264a67 !important;
+    height: 100vh;
+}
+.bg-sidebar .menu {
+    background-color: #264a67 !important;
+    height: 500px;
+}
+.bg-sidebar .logo-part {
+    font-size: 4rem;
+    color: #fff;
+}
+.bg-sidebar .logo-part span{
+  color: #ff6600;
+}
+.bg-sidebar a {
+    color: #fff !important;
+}
+.bg-sidebar ul li {
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+.bg-sidebar ul li a {
+    transition: 0.5s;
+}
+
+.bg-sidebar ul li  {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+}
+.bg-sidebar li a:hover ,
+.bg-sidebar li a:active ,
+.bg-sidebar li a:focus  {
+    color: #ff6600 !important;
+}
+.bg-sidebar li :hover svg,
+.bg-sidebar li:focus svg {
+    fill: #ff6600 !important ;
+}
+
+.add-product{
+}
+
